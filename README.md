@@ -26,7 +26,7 @@ pip install pillow
 pip install requests
 ```
 
-### File: `server.py`
+### 📄 File: `server.py`
 
 The server will:
 
