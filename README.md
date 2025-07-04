@@ -6,8 +6,6 @@ The server also converts all uploaded images to PNG format.
 
 ---
 
-## ✅ Part A – Flask Server
-
 ### Features:
 - Downloads 12 JPG images from Unsplash and converts them to PNG.
 - Exposes RESTful endpoints to:
